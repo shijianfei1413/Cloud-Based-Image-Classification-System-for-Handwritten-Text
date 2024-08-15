@@ -11,7 +11,7 @@ This project focuses on developing a cloud-based image classification system to 
 
 ### 2. **Final Project Powerpoints (PPTX)**
    - **Description**: This PowerPoint presentation provides a detailed overview of the project's execution, including system design, data storage, model training, deployment, and recommendations for future improvements. It offers a comprehensive look at the project’s lifecycle and outcomes.
-   - **[View the Presentation](path-to-your-pptx-file)**
+   - **[View the Presentation](https://github.com/shijianfei1413/Cloud-Based-Image-Classification-System-for-Handwritten-Text/blob/fd66b8eaf8efcd1f86dec5b0025ee4fb30d47301/Final%20Project%20Powerpoints.pptx)**
 
 ### 3. **Final Project Report (PDF)**
    - **Description**: The final report offers an in-depth analysis of the project, covering the business case, data procurement, cloud architecture, security features, and cost analysis. It includes detailed descriptions of the AWS services used, the implementation process, and the results achieved.
