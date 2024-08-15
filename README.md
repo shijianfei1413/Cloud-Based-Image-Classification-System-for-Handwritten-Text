@@ -7,7 +7,7 @@ This project focuses on developing a cloud-based image classification system to 
 
 ### 1. **Final Project Proposal (PPTX)**
    - **Description**: This presentation outlines the initial proposal for the project, including the business problem, data procurement strategy, system design, and the planned responsibilities for each team member. It serves as the foundational blueprint for the project.
-   - **[View the Proposal](path-to-your-pptx-file)**
+   - **[View the Proposal](https://github.com/shijianfei1413/Cloud-Based-Image-Classification-System-for-Handwritten-Text/blob/ba2b9a855ce2cb6a097fb0f575b6815d27f0e09b/Final%20Project%20Proposal.pptx)**
 
 ### 2. **Final Project Powerpoints (PPTX)**
    - **Description**: This PowerPoint presentation provides a detailed overview of the project's execution, including system design, data storage, model training, deployment, and recommendations for future improvements. It offers a comprehensive look at the project’s lifecycle and outcomes.
