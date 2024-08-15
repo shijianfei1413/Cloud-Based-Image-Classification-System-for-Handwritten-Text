@@ -15,7 +15,7 @@ This project focuses on developing a cloud-based image classification system to 
 
 ### 3. **Final Project Report (PDF)**
    - **Description**: The final report offers an in-depth analysis of the project, covering the business case, data procurement, cloud architecture, security features, and cost analysis. It includes detailed descriptions of the AWS services used, the implementation process, and the results achieved.
-   - **[Read the Full Report](path-to-your-pdf-file)**
+   - **[Read the Full Report](https://github.com/shijianfei1413/Cloud-Based-Image-Classification-System-for-Handwritten-Text/blob/33d27c4b2615227257179ef5b2dce2fe96de8bc1/Final%20Project%20Report.pdf)**
 
 ## Key Components
 
